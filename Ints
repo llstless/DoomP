@@ -1,30 +1,30 @@
-Install Instructions
+#Install Instructions
 
 # Virtual Host 7
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
+##### https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-7
 
 # Virtual Host 6
-https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-6
+###### https://www.digitalocean.com/community/tutorials/how-to-set-up-apache-virtual-hosts-on-centos-6
 
 # Nagios 7
-https://www.digitalocean.com/community/tutorials/how-to-install-nagios-4-and-monitor-your-servers-on-centos-7
+###### https://www.digitalocean.com/community/tutorials/how-to-install-nagios-4-and-monitor-your-servers-on-centos-7
 
 # Nagios 6
-https://www.digitalocean.com/community/tutorials/how-to-install-nagios-on-centos-6
+###### https://www.digitalocean.com/community/tutorials/how-to-install-nagios-on-centos-6
 
 # Sugar CRM
-https://www.tecmint.com/install-sugarcrm-community-edition-on-centos-debian-ubuntu/
+###### https://www.tecmint.com/install-sugarcrm-community-edition-on-centos-debian-ubuntu/
 
 # Samhain
-https://mbrownnyc.wordpress.com/technology-solutions/create-a-secure-linux-web-server/part-12-install-and-configure-samhain/
+###### https://mbrownnyc.wordpress.com/technology-solutions/create-a-secure-linux-web-server/part-12-install-and-configure-samhain/
 
 # Cacti
-https://www.tecmint.com/install-cacti-network-monitoring-on-rhel-centos-6-3-5-8-and-fedora-17-12/
+###### https://www.tecmint.com/install-cacti-network-monitoring-on-rhel-centos-6-3-5-8-and-fedora-17-12/
 
 # Forum PHPBB 7
-https://www.linuxhelp.com/how-to-install-phpbb-on-centos-7/
-https://linoxide.com/tools/install-configure-phpbb-forum-centos-7/
+###### https://www.linuxhelp.com/how-to-install-phpbb-on-centos-7/
+###### https://linoxide.com/tools/install-configure-phpbb-forum-centos-7/
 
 # RocketChat 
-http://theterminallife.com/rocket-chat-on-centos-7/
-https://www.admon.org/scripts/how-to-install-and-configure-rocket-chat-on-centos/
+###### http://theterminallife.com/rocket-chat-on-centos-7/
+###### https://www.admon.org/scripts/how-to-install-and-configure-rocket-chat-on-centos/
