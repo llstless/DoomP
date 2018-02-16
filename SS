@@ -1,0 +1,9 @@
+#Securing Services
+
+# PHP/Apache
+##### https://devops.profitbricks.com/tutorials/how-to-harden-the-apache-web-server-on-centos-7/
+##### https://www.tecmint.com/apache-security-tips/
+
+# SQL
+##### https://www.digitalocean.com/community/tutorials/how-to-secure-mysql-and-mariadb-databases-in-a-linux-vps
+##### https://docs.microsoft.com/en-us/sql/linux/sql-server-linux-configure-mssql-conf
