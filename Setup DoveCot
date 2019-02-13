@@ -1,0 +1,19 @@
+DoveCot installation and setup
+    https://www.server-world.info/en/note?os=Fedora_28&p=mail&f=2
+    https://docs.fedoraproject.org/en-US/fedora/rawhide/system-administrators-guide/servers/Mail_Servers/
+    https://www.rosehosting.com/blog/install-and-configure-a-simple-mail-server-using-sendmail-and-dovecot-on-a-fedora-20-vps/
+    https://linuxtechlab.com/setting-mail-server-postfix-dovecot-squirrelmail/
+    https://efectolinux.blogspot.com/2017/10/how-to-setup-simple-but-yet-powerful.html
+    
+With Database
+    https://www.linode.com/docs/email/postfix/email-with-postfix-dovecot-and-mariadb-on-centos-7/
+    https://www.digitalocean.com/community/tutorials/how-to-configure-a-mail-server-using-postfix-dovecot-mysql-and-spamassassin
+    
+User Accounts
+    https://www.server-world.info/en/note?os=Fedora_28&p=mail&f=1
+    https://www.server-world.info/en/note?os=Fedora_26&p=mail&f=7
+    https://docs.fedoraproject.org/en-US/Fedora/12/html/Deployment_Guide/s3-email-mta-postfix-conf.html
+    https://www.tecmint.com/setup-postfix-mail-server-in-ubuntu-debian/
+    https://wiki.mattrude.com/Installing_Postfix_on_Fedora_using_Local_Databases
+    https://www.tecmint.com/install-postfix-mail-server-with-webmail-in-debian/
+    https://www.rosehosting.com/blog/mailserver-with-virtual-users-and-domains-using-postfix-and-dovecot-on-a-centos-6-vps/
