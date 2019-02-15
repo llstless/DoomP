@@ -1,0 +1,22 @@
+Guides(MUST PRINT):
+    https://access.redhat.com/documentation/en-us/red_hat_enterprise_linux/6/pdf/security-enhanced_linux/Red_Hat_Enterprise_Linux-6-Security-Enhanced_Linux-en-US.pdf
+    
+    
+    
+Must PRINT:
+    TCPDUMP examples
+        https://www.tecmint.com/12-tcpdump-commands-a-network-sniffer-tool/
+        https://www.computerhope.com/unix/tcpdump.htm
+        https://www.lifewire.com/tcpdump-linux-command-unix-command-4097081
+        
+    Firewalld
+        https://linuxconfig.org/introduction-to-firewalld-and-firewall-cmd-command-on-linux
+        https://www.tecmint.com/firewalld-rules-for-centos-7/
+        https://www.linode.com/docs/security/firewalls/introduction-to-firewalld-on-centos/
+        https://linuxize.com/post/how-to-setup-a-firewall-with-firewalld-on-centos-7/
+        https://www.digitalocean.com/community/tutorials/how-to-set-up-a-firewall-using-firewalld-on-centos-7
+        
+    IPtables
+        https://www.thomas-krenn.com/en/wiki/Saving_Iptables_Firewall_Rules_Permanently
+        
+        
