@@ -19,4 +19,8 @@ Must PRINT:
     IPtables
         https://www.thomas-krenn.com/en/wiki/Saving_Iptables_Firewall_Rules_Permanently
         
-        
+    Debian MySQL
+        Debian 7
+            https://www.linode.com/docs/databases/mysql/how-to-install-mysql-on-debian-7/
+        Debain 9
+            https://www.digitalocean.com/community/tutorials/how-to-install-the-latest-mysql-on-debian-9
